@@ -1,0 +1,6 @@
+[
+  {
+    "path": "./dist/web-package-template.cjs.production.min.js",
+    "maxSize": "2 kB"
+  }
+]
